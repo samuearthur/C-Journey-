@@ -1,2 +1,1 @@
-# C-Journey-
-My C# Journey 
+My C# Journey  
