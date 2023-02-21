@@ -1,0 +1,15 @@
+D:\C# files\Day 7\Application 7\bin\Debug\net6.0\Application 7.exe
+D:\C# files\Day 7\Application 7\bin\Debug\net6.0\Application 7.deps.json
+D:\C# files\Day 7\Application 7\bin\Debug\net6.0\Application 7.runtimeconfig.json
+D:\C# files\Day 7\Application 7\bin\Debug\net6.0\Application 7.dll
+D:\C# files\Day 7\Application 7\bin\Debug\net6.0\Application 7.pdb
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.csproj.AssemblyReference.cache
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.AssemblyInfoInputs.cache
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.AssemblyInfo.cs
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.csproj.CoreCompileInputs.cache
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.dll
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\refint\Application 7.dll
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.pdb
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\Application 7.genruntimeconfig.cache
+D:\C# files\Day 7\Application 7\obj\Debug\net6.0\ref\Application 7.dll

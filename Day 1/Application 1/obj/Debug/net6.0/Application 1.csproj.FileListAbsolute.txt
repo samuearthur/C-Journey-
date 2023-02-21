@@ -1,0 +1,15 @@
+D:\C# files\Day 1\Application 1\bin\Debug\net6.0\Application 1.exe
+D:\C# files\Day 1\Application 1\bin\Debug\net6.0\Application 1.deps.json
+D:\C# files\Day 1\Application 1\bin\Debug\net6.0\Application 1.runtimeconfig.json
+D:\C# files\Day 1\Application 1\bin\Debug\net6.0\Application 1.dll
+D:\C# files\Day 1\Application 1\bin\Debug\net6.0\Application 1.pdb
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.csproj.AssemblyReference.cache
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.AssemblyInfoInputs.cache
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.AssemblyInfo.cs
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.csproj.CoreCompileInputs.cache
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.dll
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\refint\Application 1.dll
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.pdb
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\Application 1.genruntimeconfig.cache
+D:\C# files\Day 1\Application 1\obj\Debug\net6.0\ref\Application 1.dll

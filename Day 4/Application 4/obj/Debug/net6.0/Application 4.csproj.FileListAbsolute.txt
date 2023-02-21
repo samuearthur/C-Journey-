@@ -1,0 +1,15 @@
+D:\C# files\Day 4\Application 4\bin\Debug\net6.0\Application 4.exe
+D:\C# files\Day 4\Application 4\bin\Debug\net6.0\Application 4.deps.json
+D:\C# files\Day 4\Application 4\bin\Debug\net6.0\Application 4.runtimeconfig.json
+D:\C# files\Day 4\Application 4\bin\Debug\net6.0\Application 4.dll
+D:\C# files\Day 4\Application 4\bin\Debug\net6.0\Application 4.pdb
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.csproj.AssemblyReference.cache
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.AssemblyInfoInputs.cache
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.AssemblyInfo.cs
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.csproj.CoreCompileInputs.cache
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.dll
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\refint\Application 4.dll
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.pdb
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\Application 4.genruntimeconfig.cache
+D:\C# files\Day 4\Application 4\obj\Debug\net6.0\ref\Application 4.dll

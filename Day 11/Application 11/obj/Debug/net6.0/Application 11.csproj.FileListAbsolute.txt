@@ -1,0 +1,15 @@
+D:\C# files\Day 11\Application 11\bin\Debug\net6.0\Application 11.exe
+D:\C# files\Day 11\Application 11\bin\Debug\net6.0\Application 11.deps.json
+D:\C# files\Day 11\Application 11\bin\Debug\net6.0\Application 11.runtimeconfig.json
+D:\C# files\Day 11\Application 11\bin\Debug\net6.0\Application 11.dll
+D:\C# files\Day 11\Application 11\bin\Debug\net6.0\Application 11.pdb
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.csproj.AssemblyReference.cache
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.AssemblyInfoInputs.cache
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.AssemblyInfo.cs
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.csproj.CoreCompileInputs.cache
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.dll
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\refint\Application 11.dll
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.pdb
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\Application 11.genruntimeconfig.cache
+D:\C# files\Day 11\Application 11\obj\Debug\net6.0\ref\Application 11.dll

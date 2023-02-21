@@ -1,0 +1,15 @@
+D:\C# files\Day 3\Application 3\bin\Debug\net6.0\Application 3.exe
+D:\C# files\Day 3\Application 3\bin\Debug\net6.0\Application 3.deps.json
+D:\C# files\Day 3\Application 3\bin\Debug\net6.0\Application 3.runtimeconfig.json
+D:\C# files\Day 3\Application 3\bin\Debug\net6.0\Application 3.dll
+D:\C# files\Day 3\Application 3\bin\Debug\net6.0\Application 3.pdb
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.csproj.AssemblyReference.cache
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.AssemblyInfoInputs.cache
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.AssemblyInfo.cs
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.csproj.CoreCompileInputs.cache
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.dll
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\refint\Application 3.dll
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.pdb
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\Application 3.genruntimeconfig.cache
+D:\C# files\Day 3\Application 3\obj\Debug\net6.0\ref\Application 3.dll

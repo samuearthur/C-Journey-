@@ -1,0 +1,15 @@
+D:\C# files\Day 9\Application 9\bin\Debug\net6.0\Application 9.exe
+D:\C# files\Day 9\Application 9\bin\Debug\net6.0\Application 9.deps.json
+D:\C# files\Day 9\Application 9\bin\Debug\net6.0\Application 9.runtimeconfig.json
+D:\C# files\Day 9\Application 9\bin\Debug\net6.0\Application 9.dll
+D:\C# files\Day 9\Application 9\bin\Debug\net6.0\Application 9.pdb
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.csproj.AssemblyReference.cache
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.AssemblyInfoInputs.cache
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.AssemblyInfo.cs
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.csproj.CoreCompileInputs.cache
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.dll
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\refint\Application 9.dll
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.pdb
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\Application 9.genruntimeconfig.cache
+D:\C# files\Day 9\Application 9\obj\Debug\net6.0\ref\Application 9.dll

@@ -1,0 +1,15 @@
+D:\C# files\Day 6\Application 6 - Simple calculator\bin\Debug\net6.0\Application 6 - Simple calculator.exe
+D:\C# files\Day 6\Application 6 - Simple calculator\bin\Debug\net6.0\Application 6 - Simple calculator.deps.json
+D:\C# files\Day 6\Application 6 - Simple calculator\bin\Debug\net6.0\Application 6 - Simple calculator.runtimeconfig.json
+D:\C# files\Day 6\Application 6 - Simple calculator\bin\Debug\net6.0\Application 6 - Simple calculator.dll
+D:\C# files\Day 6\Application 6 - Simple calculator\bin\Debug\net6.0\Application 6 - Simple calculator.pdb
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.csproj.AssemblyReference.cache
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.AssemblyInfoInputs.cache
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.AssemblyInfo.cs
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.csproj.CoreCompileInputs.cache
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.dll
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\refint\Application 6 - Simple calculator.dll
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.pdb
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\Application 6 - Simple calculator.genruntimeconfig.cache
+D:\C# files\Day 6\Application 6 - Simple calculator\obj\Debug\net6.0\ref\Application 6 - Simple calculator.dll
